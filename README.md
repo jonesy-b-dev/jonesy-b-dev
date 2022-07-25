@@ -10,3 +10,4 @@ I make games and music:D
 
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesy-b-dev&count_private=true&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesy-b-dev)](https://github.com/anuraghazra/github-readme-stats&langs_count=)
