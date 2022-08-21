@@ -9,5 +9,9 @@ I make games and music:D
 * Python
 
 ## My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesy-b-dev&count_private=true&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesy-b-dev)](https://github.com/anuraghazra/github-readme-stats&langs_count=&theme=nord)
+<a href="https://github.com/SeamusMullan/SeamusMullan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesy-b-dev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/SeamusMullan/SeamusMullan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonesy-b-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonesy-b' GitHub Stats" />
+</a>
