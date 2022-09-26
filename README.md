@@ -6,7 +6,6 @@ I make games and music:D
 ## My languages
 * C++
 * C#
-* Python
 
 ## My stats
 <a href="https://github.com/SeamusMullan/SeamusMullan">
