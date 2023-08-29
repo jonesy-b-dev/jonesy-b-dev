@@ -3,9 +3,8 @@
 I'm Jonesy B and im a software development student in the Netherlands.
 I make games and music:D
 
-## My languages
-* C++
-* C#
+## My skills
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,unreal,unity,visualstudio,vscode,linux,git)](https://skillicons.dev)
 
 ## My stats
 <a href="https://github.com/SeamusMullan/SeamusMullan">
