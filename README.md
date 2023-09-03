@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Jonesy B and im a software development student in the Netherlands.
+Currently doing an internship at CrescentOne
 I make games and music:D
 
 ## My skills
