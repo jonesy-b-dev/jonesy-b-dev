@@ -5,12 +5,8 @@ Currently doing an internship at CrescentOne
 I make games and music:D
 
 ## My skills
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,unreal,unity,visualstudio,vscode,linux,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,unreal,unity,linux,git,js,postman)](https://skillicons.dev)
 
-## My stats
-<a href="https://github.com/SeamusMullan/SeamusMullan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesy-b-dev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/SeamusMullan/SeamusMullan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonesy-b-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonesy-b' GitHub Stats" />
-</a>
+## My stats 
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jonesy-b-dev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesy-b-dev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
