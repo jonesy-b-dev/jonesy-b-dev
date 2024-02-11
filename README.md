@@ -6,7 +6,7 @@ Working on lot of projects
 [I make music too!](https://linktr.ee/Jonesy_b_music)
 
 ## My skills
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,unreal,unity,linux,git,js,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,bash,unreal,unity,linux,git,vim,neovim)](https://skillicons.dev)
 
 ## My stats 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jonesy-b-dev\&include_all_commits=true&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
