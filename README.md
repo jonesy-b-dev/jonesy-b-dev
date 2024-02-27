@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 
 
-I'm Jonesy B and im a software development student in the Netherlands.
+👋 I'm Jonesy B and im a software development student in the Netherlands.
 Working on lot of projects.
 
-Developing [Stellar Engine](https://github.com/Luke-Creative-Media/StellarEngine) together with [Lukevdb01](https://github.com/Lukevdb01).
+🪐Developing [Stellar Engine](https://github.com/Luke-Creative-Media/StellarEngine) together with [Lukevdb01](https://github.com/Lukevdb01).
 
-I make [music](https://linktr.ee/Jonesy_b_music) too!
+🎹 I make [music](https://linktr.ee/Jonesy_b_music) too!
 
 ## My skills
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,bash,unreal,unity,linux,git,vim,neovim)](https://skillicons.dev)
