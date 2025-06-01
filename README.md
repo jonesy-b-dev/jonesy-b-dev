@@ -3,8 +3,6 @@
 👋 I'm Jonesy B and im a software development student in the Netherlands.
 Working on lot of projects.
 
-🪐Developing [Stellar Engine](https://github.com/OuterCelestics/StellarEngine) together with [Lukevdb01](https://github.com/Lukevdb01).
-
 🎹 I make [music](https://linktr.ee/Jonesy_b_music) too!
 
 ## My skills
