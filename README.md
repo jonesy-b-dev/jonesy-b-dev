@@ -2,6 +2,7 @@
 
 👋 I'm Jonesy B and im a software development student in the Netherlands.
 Working on lot of projects.
+(I use Arch btw)
 
 🎹 I make [music](https://linktr.ee/Jonesy_b_music) too!
 
